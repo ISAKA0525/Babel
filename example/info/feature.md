@@ -1,29 +1,8 @@
-YIBANXINGTAILANG
-- mdbook 本身生成的静态资源并不直接支持中文搜索只能搜索英文
-- 我在下面的参考下通过添加js文件,解决了这个问题
-> [!NOTE] 参考
-> [小霖家的混江龙](https://lijunlin2022.github.io/docs/tool/mdbook/)
-> [Support CJK (mutiple language) search · Issue #2052 · rust-lang/mdBook · GitHub](https://github.com/rust-lang/mdBook/issues/2052)
-# 中文url无法跳转问题
-- 默认的 obsidian-export 出现了中文无法跳转的问题
-- 我更改了他的源代码自己编译了一份解决
-- [更改后的github链接](https://github.com/chenxuan520/obsidian-export)
-# 添加右侧大纲
-- 类似obsidian右边的大纲系统
-> [!NOTE] 参考
-> [GitHub - JorelAli/mdBook-pagetoc: A page table of contents for mdBook](https://github.com/JorelAli/mdBook-pagetoc)
-# 其他改进了的特性
-- 无法识别 \[\[\]\] 语法的问题,使用obsidian-export 解决了 [[old]]
-- obsidian本体的==高亮设置==
-- obsidian的tag识别和搜索 #tag
-- 多行应用不会换行的问题
-> example
-> next line
-
-> [!important] 引用语法识别
-> 类似这种
-
-- math公式支持, 类似 $$a^2=b^2+c^2$$
-
-
-
+性别：木头
+年龄：145岁
+（优午是禄二郎在《日俄和亲通好条约》签订的第二年，即1856年由禄二郎制作出来的。本作于2001年创作完成，此时优午大约145岁）
+身份：稻草人
+登场作品：[[《奥杜邦的祈祷》]]
+关联作品：《乐园》
+特点：身边总是有很多猫死去。
+名言：未来是神明的食谱。
