@@ -3,7 +3,7 @@ authors = ["CAT"]
 language = "zh"
 multilingual = false
 src = "src"
-title = "ISAKA'blog"
+title = "关于伊坂幸太郎的一切"
 description= "ISAKA'blog"
 
 [output.html]
